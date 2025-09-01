@@ -5,4 +5,4 @@
 **Bold**\
 *Italic*\
 ***Bold and Italic***\
-~~Strikethrough~~\
+~~Strikethrough~~
